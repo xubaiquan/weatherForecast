@@ -6,3 +6,4 @@
 4、支持日出日落时间扇形图展示
 5、支持最低温最高温折线图展示
 6、支持感冒指数，空气状况，温馨提示等功能
+![image](https://github.com/xubaiquan/weatherForecast/blob/master/weathForcast.png)
