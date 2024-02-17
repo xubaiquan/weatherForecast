@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/weather_icon">
+        <file>weather_icons/暴雪.png</file>
+        <file>weather_icons/暴雨.png</file>
+        <file>weather_icons/冰雹.png</file>
+        <file>weather_icons/大雾.png</file>
+        <file>weather_icons/大雪.png</file>
+        <file>weather_icons/大雨.png</file>
+        <file>weather_icons/多云.png</file>
+        <file>weather_icons/雷阵雨.png</file>
+        <file>weather_icons/雷阵雨加冰雹.png</file>
+        <file>weather_icons/龙卷风.png</file>
+        <file>weather_icons/晴.png</file>
+        <file>weather_icons/沙尘暴.png</file>
+        <file>weather_icons/未知天气.png</file>
+        <file>weather_icons/雾霾.png</file>
+        <file>weather_icons/小雪.png</file>
+        <file>weather_icons/小雨.png</file>
+        <file>weather_icons/阴.png</file>
+        <file>weather_icons/雨夹雪.png</file>
+        <file>weather_icons/阵雨.png</file>
+        <file>weather_icons/中雪.png</file>
+        <file>weather_icons/中雨.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/close.png</file>
+        <file>icon/leafs.png</file>
+        <file>icon/Location.png</file>
+        <file>icon/refresh.png</file>
+        <file>icon/search.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>background/australian-king-parrot-7954026_1920.jpg</file>
+        <file>background/ocean-3605547_1920.jpg</file>
+    </qresource>
+</RCC>

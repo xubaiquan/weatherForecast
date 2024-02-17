@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="weatherForecast_zh_CN.qm">E:/codeproject/qtProject/QT5.15.2/weatherForecast/debug/weatherForecast_zh_CN.qm</file>
+</qresource>
+</RCC>
